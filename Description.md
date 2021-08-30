@@ -11,11 +11,8 @@ LEVEL2:
   
   
 LEVEL3:
-  The passwords are compared to the most commonly used Hackers Wordlist.
-  
-  
-  If you find your password in the list you can be at high risk.
-  
+  The passwords are compared to the most commonly used Hackers Wordlist. If you find your password in the list you can be at high risk.
+   
   
 LEVEL4:
   Here user level questions are asked to really check on to the password strength.
